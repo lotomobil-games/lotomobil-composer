@@ -1,0 +1,13 @@
+{
+  "backend": "supabase",
+  "fileEditorReady": false,
+  "cloudDraftSections": [
+    "translations",
+    "design",
+    "audio",
+    "art",
+    "game"
+  ],
+  "files": 1404,
+  "bytes": 127117889
+}
